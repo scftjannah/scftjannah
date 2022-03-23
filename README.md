@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @scftjannah ! :D
 - 👀 I’m interested in: software engineering and UI Design
-- 🌱 I’m currently learning: Phyton and Swift 
+- 🌱 I’m currently learning: Python and Swift 
 - 💞️ I’m looking to collaborate on: i have no idea sorry :|
 - 📫 How to reach me:
 - twitter (@TechyJannah)
