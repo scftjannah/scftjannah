@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @scftjannah ! :D
-- 👀 I’m interested in: iOS Development and UI Design
-- 🌱 I’m currently learning: Python and Swift 
-- 💞️ I’m looking to collaborate on: i have no idea sorry :|
+Hey everyone, my name's Jannah! great to meet u all here on GitHub! :D
+
+- ✨ Interested on: iOS Development and UI Design
+- Currently learn: Swift and SwiftUI
+
 - 📫 How to reach me:
 - twitter (@TechyJannah)
 - instagram (@scft.jxnnxh)
