@@ -1,11 +1,11 @@
-Hey everyone, my name's Jannah! great to meet u all here on GitHub! :D
+Hey everyone, my name's Alia Jannah! Nice to meet you all.
 
-- ✨ Interested on: iOS Development and UI Design
-- Currently learn: Swift and SwiftUI
+- Interested on: iOS Development and UI Design
+- Currently learn: SwiftUI and Python
 
 - 📫 How to reach me:
-- twitter (@TechyJannah)
-- instagram (@scft.jxnnxh)
+	- Twitter/X: @TechyJannah
+	- Email: dreamyalia@icloud.com
 
 <!---
 scftjannah/scftjannah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
